@@ -1,0 +1,21 @@
+# Katalon generated files
+bin/
+.cache/
+.settings/
+.metadata/
+
+# Build files
+.gradle/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.classpath
