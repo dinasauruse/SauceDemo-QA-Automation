@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_003_InvalidUsername</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Dina Fitri Rachmayanti</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Dina Fitri Rachmayanti</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>7b6b6496-efc3-4cc7-9ef3-0731e632e0e6</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>7b6b6496-efc3-4cc7-9ef3-0731e632e0e6</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>819586b2-0121-46e5-9b87-bf4b2c70ad1b</testCaseGuid>
+</TestCaseEntity>

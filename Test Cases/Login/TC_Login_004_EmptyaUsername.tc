@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_004_EmptyaUsername</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Dina Fitri Rachmayanti</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>7b6b6496-efc3-4cc7-9ef3-0731e632e0e6</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17b262d6-5697-42a5-b5ab-968a495e826a</testCaseGuid>
+</TestCaseEntity>
